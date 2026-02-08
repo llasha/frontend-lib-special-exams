@@ -1,6 +1,6 @@
 {
   "name": "@llasha/frontend-lib-special-exams",
-  "version": "3.5.0-ka.3",
+  "version": "3.5.0-ka.5",
   "description": "Special exams lib",
   "main": "dist/index.js",
   "release": {
@@ -54,8 +54,8 @@
     "eventemitter3": "^4.0.7"
   },
   "peerDependencies": {
-    "@openedx/paragon": "23.4.5-ka.3 || ^23.0.0",
-    "@edx/frontend-platform": "8.3.11-ka.3 || ^8.0.0",
+    "@openedx/paragon": "23.4.5-ka.5 || ^23.0.0",
+    "@edx/frontend-platform": "8.3.11-ka.6 || ^8.0.0",
     "@reduxjs/toolkit": "^1.5.1",
     "prop-types": "^15.7.2",
     "react": "^16.14.0 || ^17.0.0 || ^18.0.0",
@@ -66,8 +66,8 @@
     "redux": "^4.0.5"
   },
   "devDependencies": {
-    "@openedx/paragon": "npm:@llasha/paragon@23.4.5-ka.3",
-    "@edx/frontend-platform": "npm:@llasha/frontend-platform@8.3.11-ka.3",
+    "@openedx/paragon": "npm:@llasha/paragon@23.4.5-ka.5",
+    "@edx/frontend-platform": "npm:@llasha/frontend-platform@8.3.11-ka.6",
     "@edx/reactifex": "^2.1.1",
     "@openedx/frontend-build": "^14.3.3",
     "@reduxjs/toolkit": "^1.5.1",
